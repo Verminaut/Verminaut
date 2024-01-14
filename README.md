@@ -1,5 +1,8 @@
- Hi, I’m @Verminaut
- I’m interested in various things
+ - Hi, I’m @Verminaut!, better known as Austin. 
+ - Community College Student
+ - Digitial Media Communication's - Animation & Network Adiminstration Certificate
+ - Game Design is the eventual goal. 
+   
 
 
 <!---
